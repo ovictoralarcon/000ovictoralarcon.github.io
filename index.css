@@ -41,6 +41,7 @@ h1 {
 body {
   font-family: Arial, Helvetica, sans-serif;
   padding-bottom: 250px;
+  text-align: justify;
 }
 
 /* Style the header */
